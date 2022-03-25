@@ -5,7 +5,7 @@ public class Main {
   public static void main(String[] args) {
     int[] originalArray = {5,2,4,1,3};
     int[] resortedArray = originalArray;
-    // Print the array befire being resorted
+    // Print the array before being resorted
     System.out.println("\nOrginial Array: " + Arrays.toString(originalArray));
 
     int n = resortedArray.length;
